@@ -18,8 +18,6 @@ ourmodel_threedatasets_weights
 datasets/MMEW_Micro_Exp_delete_others.csv
 datasets/MMEW_Micro_Exp_delete_others_anger.csv
 
-./HTNet/myenv/
-/HTNet/myenv/
-HTNet/myenv/
-myenv/
 ourmodel_threedatasets_weights/
+../ourmodel_threedatasets_weights/
+ourmodel_threedatasets_weights/006.pth
