@@ -1,0 +1,1164 @@
+Subject: sub25
+train
+Subject: sub25, Epoch 1/50 - Training started
+  Batch 0/2 - Train Loss: 1.4075, Train Acc: 0.0000
+Subject: sub25, Epoch 2/50 - Training started
+  Batch 0/2 - Train Loss: 0.9789, Train Acc: 0.6000
+Subject: sub25, Epoch 3/50 - Training started
+  Batch 0/2 - Train Loss: 1.3302, Train Acc: 0.4000
+Subject: sub25, Epoch 4/50 - Training started
+  Batch 0/2 - Train Loss: 0.2285, Train Acc: 1.0000
+Subject: sub25, Epoch 5/50 - Training started
+  Batch 0/2 - Train Loss: 0.3398, Train Acc: 0.8000
+Subject: sub25, Epoch 6/50 - Training started
+  Batch 0/2 - Train Loss: 0.5128, Train Acc: 0.8000
+Subject: sub25, Epoch 7/50 - Training started
+  Batch 0/2 - Train Loss: 0.3060, Train Acc: 0.8000
+Subject: sub25, Epoch 8/50 - Training started
+  Batch 0/2 - Train Loss: 0.0919, Train Acc: 1.0000
+Subject: sub25, Epoch 9/50 - Training started
+  Batch 0/2 - Train Loss: 0.1130, Train Acc: 1.0000
+Subject: sub25, Epoch 10/50 - Training started
+  Batch 0/2 - Train Loss: 0.2188, Train Acc: 0.8000
+Subject: sub25, Epoch 11/50 - Training started
+  Batch 0/2 - Train Loss: 0.1834, Train Acc: 0.8000
+Subject: sub25, Epoch 12/50 - Training started
+  Batch 0/2 - Train Loss: 0.0707, Train Acc: 1.0000
+Subject: sub25, Epoch 13/50 - Training started
+  Batch 0/2 - Train Loss: 0.0230, Train Acc: 1.0000
+Subject: sub25, Epoch 14/50 - Training started
+  Batch 0/2 - Train Loss: 0.0225, Train Acc: 1.0000
+Subject: sub25, Epoch 15/50 - Training started
+  Batch 0/2 - Train Loss: 0.0403, Train Acc: 1.0000
+Subject: sub25, Epoch 16/50 - Training started
+  Batch 0/2 - Train Loss: 0.0533, Train Acc: 1.0000
+Subject: sub25, Epoch 17/50 - Training started
+  Batch 0/2 - Train Loss: 0.0396, Train Acc: 1.0000
+Subject: sub25, Epoch 18/50 - Training started
+  Batch 0/2 - Train Loss: 0.0164, Train Acc: 1.0000
+Subject: sub25, Epoch 19/50 - Training started
+  Batch 0/2 - Train Loss: 0.0048, Train Acc: 1.0000
+Subject: sub25, Epoch 20/50 - Training started
+  Batch 0/2 - Train Loss: 0.0013, Train Acc: 1.0000
+Subject: sub25, Epoch 21/50 - Training started
+  Batch 0/2 - Train Loss: 0.0004, Train Acc: 1.0000
+Subject: sub25, Epoch 22/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 23/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 24/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 25/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 26/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 27/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 28/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 29/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 30/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 31/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 32/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 33/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 34/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 35/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 36/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 37/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 38/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 39/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 40/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 41/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 42/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 43/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 44/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 45/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 46/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 47/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 48/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 49/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 50/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Best Predicted    : [0, 0, 0, 2, 2]
+Ground Truth : [0, 0, 0, 2, 2]
+Evaluation until this subject:
+best UF1: 0.9581 | best UAR: 0.9416
+Subject: sub26
+train
+Subject: sub26, Epoch 1/50 - Training started
+  Batch 0/2 - Train Loss: 1.2769, Train Acc: 0.0000
+Subject: sub26, Epoch 2/50 - Training started
+  Batch 0/2 - Train Loss: 1.6690, Train Acc: 0.8182
+Subject: sub26, Epoch 3/50 - Training started
+  Batch 0/2 - Train Loss: 0.7383, Train Acc: 0.8182
+Subject: sub26, Epoch 4/50 - Training started
+  Batch 0/2 - Train Loss: 0.2836, Train Acc: 0.9091
+Subject: sub26, Epoch 5/50 - Training started
+  Batch 0/2 - Train Loss: 0.3203, Train Acc: 0.9091
+Subject: sub26, Epoch 6/50 - Training started
+  Batch 0/2 - Train Loss: 0.1017, Train Acc: 1.0000
+Subject: sub26, Epoch 7/50 - Training started
+  Batch 0/2 - Train Loss: 0.1995, Train Acc: 0.8182
+Subject: sub26, Epoch 8/50 - Training started
+  Batch 0/2 - Train Loss: 0.2105, Train Acc: 0.8182
+Subject: sub26, Epoch 9/50 - Training started
+  Batch 0/2 - Train Loss: 0.1131, Train Acc: 0.9091
+Subject: sub26, Epoch 10/50 - Training started
+  Batch 0/2 - Train Loss: 0.0423, Train Acc: 1.0000
+Subject: sub26, Epoch 11/50 - Training started
+  Batch 0/2 - Train Loss: 0.0459, Train Acc: 1.0000
+Subject: sub26, Epoch 12/50 - Training started
+  Batch 0/2 - Train Loss: 0.0745, Train Acc: 1.0000
+Subject: sub26, Epoch 13/50 - Training started
+  Batch 0/2 - Train Loss: 0.0715, Train Acc: 1.0000
+Subject: sub26, Epoch 14/50 - Training started
+  Batch 0/2 - Train Loss: 0.0378, Train Acc: 1.0000
+Subject: sub26, Epoch 15/50 - Training started
+  Batch 0/2 - Train Loss: 0.0137, Train Acc: 1.0000
+Subject: sub26, Epoch 16/50 - Training started
+  Batch 0/2 - Train Loss: 0.0055, Train Acc: 1.0000
+Subject: sub26, Epoch 17/50 - Training started
+  Batch 0/2 - Train Loss: 0.0042, Train Acc: 1.0000
+Subject: sub26, Epoch 18/50 - Training started
+  Batch 0/2 - Train Loss: 0.0057, Train Acc: 1.0000
+Subject: sub26, Epoch 19/50 - Training started
+  Batch 0/2 - Train Loss: 0.0081, Train Acc: 1.0000
+Subject: sub26, Epoch 20/50 - Training started
+  Batch 0/2 - Train Loss: 0.0095, Train Acc: 1.0000
+Subject: sub26, Epoch 21/50 - Training started
+  Batch 0/2 - Train Loss: 0.0079, Train Acc: 1.0000
+Subject: sub26, Epoch 22/50 - Training started
+  Batch 0/2 - Train Loss: 0.0046, Train Acc: 1.0000
+Subject: sub26, Epoch 23/50 - Training started
+  Batch 0/2 - Train Loss: 0.0020, Train Acc: 1.0000
+Subject: sub26, Epoch 24/50 - Training started
+  Batch 0/2 - Train Loss: 0.0007, Train Acc: 1.0000
+Subject: sub26, Epoch 25/50 - Training started
+  Batch 0/2 - Train Loss: 0.0003, Train Acc: 1.0000
+Subject: sub26, Epoch 26/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub26, Epoch 27/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 28/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 29/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 30/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 31/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 32/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 33/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 34/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 35/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 36/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 28/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 29/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 30/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 31/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 32/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 33/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 34/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 35/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 36/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 28/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 29/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 30/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 31/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 32/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 33/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 34/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 35/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 36/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 32/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 33/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 34/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 35/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 36/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 34/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 35/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 36/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 36/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 37/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 37/50 - Training started
+Subject: sub26, Epoch 37/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 38/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 39/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 40/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 41/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 42/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 43/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 44/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 45/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 46/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 47/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 48/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 49/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 50/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Best Predicted    : [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+Ground Truth : [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+Evaluation until this subject:
+best UF1: 0.9588 | best UAR: 0.9423
+Final Evaluation:
+(442,)
+Total Time Taken: 44761.680196762085
+{'006': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2]}, '007': {'pred': [0, 1, 1, 1, 1, 1, 2, 2], 'truth': [0, 1, 1, 1, 1, 1, 2, 2]}, '009': {'pred': [0, 0, 0, 2], 'truth': [0, 0, 0, 2]}, '010': {'pred': [0, 0, 0, 0], 'truth': [0, 0, 0, 0]}, '011': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1]}, '012': {'pred': [0, 0, 2], 'truth': [0, 0, 2]}, '013': {'pred': [0, 0, 0, 0, 0, 0], 'truth': [0, 0, 0, 0, 0, 0]}, '014': {'pred': [0, 0, 1, 1, 1, 1, 1, 1, 1, 2], 'truth': [0, 0, 1, 1, 1, 1, 1, 1, 1, 2]}, '015': {'pred': [0, 0, 2], 'truth': [0, 0, 2]}, '016': {'pred': [0, 0, 1, 2, 2], 'truth': [0, 0, 1, 2, 2]}, '017': {'pred': [0, 0, 0, 2], 'truth': [0, 0, 0, 2]}, '018': {'pred': [0, 0, 2], 'truth': [0, 0, 2]}, '019': {'pred': [1], 'truth': [1]}, '020': {'pred': [0, 0, 1, 1], 'truth': [0, 0, 1, 1]}, '021': {'pred': [0, 0], 'truth': [0, 0]}, '022': {'pred': [0, 0, 0, 1, 1], 'truth': [0, 0, 0, 1, 1]}, '023': {'pred': [0], 'truth': [0]}, '024': {'pred': [0], 'truth': [0]}, '026': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0]}, '028': {'pred': [0, 2, 2], 'truth': [0, 2, 2]}, '030': {'pred': [0, 0, 0], 'truth': [0, 0, 0]}, '031': {'pred': [0], 'truth': [0]}, '032': {'pred': [0, 0, 0, 0], 'truth': [0, 0, 0, 0]}, '033': {'pred': [0, 0, 0, 0, 1], 'truth': [0, 0, 0, 0, 1]}, '034': {'pred': [0, 0, 0], 'truth': [0, 0, 0]}, '035': {'pred': [0, 0, 0, 0, 0, 0, 0, 2], 'truth': [0, 0, 0, 0, 0, 0, 0, 2]}, '036': {'pred': [0], 'truth': [0]}, '037': {'pred': [0], 'truth': [0]}, 's01': {'pred': [0, 0, 0, 1, 1, 2], 'truth': [0, 0, 0, 1, 1, 2]}, 's02': {'pred': [1, 2, 2, 2, 2, 2], 'truth': [1, 2, 2, 2, 2, 2]}, 's03': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2]}, 's04': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 2, 2], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 2, 2]}, 's05': {'pred': [0, 2], 'truth': [0, 2]}, 's06': {'pred': [0, 0, 2, 2], 'truth': [0, 0, 2, 2]}, 's08': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1]}, 's09': {'pred': [1, 2, 2, 2], 'truth': [1, 2, 2, 2]}, 's11': {'pred': [0, 0, 0, 1, 1, 1, 2], 'truth': [0, 0, 0, 1, 1, 1, 2]}, 's12': {'pred': [1, 1, 1, 1, 1, 1, 1, 1, 2], 'truth': [1, 1, 1, 1, 1, 1, 1, 1, 2]}, 's13': {'pred': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'truth': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}, 's14': {'pred': [0, 0, 0, 1, 1, 2, 2, 2, 2, 2], 'truth': [0, 0, 0, 1, 1, 2, 2, 2, 2, 2]}, 's15': {'pred': [0, 1, 2, 2], 'truth': [0, 1, 2, 2]}, 's18': {'pred': [0, 0, 2, 2, 2, 2, 2], 'truth': [0, 0, 2, 2, 2, 2, 2]}, 's19': {'pred': [1, 2], 'truth': [1, 2]}, 's20': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2]}, 'sub01': {'pred': [0, 0, 1], 'truth': [0, 0, 1]}, 'sub02': {'pred': [0, 0, 0, 0, 0, 1, 2, 2, 2], 'truth': [0, 0, 0, 0, 0, 1, 2, 2, 2]}, 'sub03': {'pred': [0, 0, 0, 0, 2], 'truth': [0, 0, 0, 0, 2]}, 'sub04': {'pred': [0, 0], 'truth': [0, 0]}, 'sub05': {'pred': [1, 2, 2, 2, 2, 2], 'truth': [1, 2, 2, 2, 2, 2]}, 'sub06': {'pred': [0, 1, 2, 2], 'truth': [0, 1, 2, 2]}, 'sub07': {'pred': [0, 0, 0, 0, 0], 'truth': [0, 0, 0, 0, 0]}, 'sub08': {'pred': [0], 'truth': [0]}, 'sub09': {'pred': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1], 'truth': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]}, 'sub11': {'pred': [0, 0, 0, 0], 'truth': [0, 0, 0, 0]}, 'sub12': {'pred': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2], 'truth': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2]}, 'sub13': {'pred': [1, 1], 'truth': [1, 1]}, 'sub14': {'pred': [1, 1, 1], 'truth': [1, 1, 1]}, 'sub15': {'pred': [0, 1, 2], 'truth': [0, 1, 2]}, 'sub16': {'pred': [0, 1, 1], 'truth': [0, 1, 1]}, 'sub17': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2]}, 'sub19': {'pred': [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2], 'truth': [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2]}, 'sub20': {'pred': [0, 0], 'truth': [0, 0]}, 'sub21': {'pred': [0], 'truth': [0]}, 'sub22': {'pred': [0, 0], 'truth': [0, 0]}, 'sub23': {'pred': [0, 0, 0, 0, 0, 0, 0, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 1]}, 'sub24': {'pred': [0, 0, 2], 'truth': [0, 0, 2]}, 'sub25': {'pred': [0, 0, 0, 2, 2], 'truth': [0, 0, 0, 2, 2]}, 'sub26': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+########################################################################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subject: sub19, Epoch 44/50 - Training started
+  Batch 0/2 - Train Loss: 0.0007, Train Acc: 1.0000
+Subject: sub19, Epoch 45/50 - Training started
+  Batch 0/2 - Train Loss: 0.0006, Train Acc: 1.0000
+Subject: sub19, Epoch 46/50 - Training started
+  Batch 0/2 - Train Loss: 0.0006, Train Acc: 1.0000
+Subject: sub19, Epoch 47/50 - Training started
+  Batch 0/2 - Train Loss: 0.0005, Train Acc: 1.0000
+Subject: sub19, Epoch 48/50 - Training started
+  Batch 0/2 - Train Loss: 0.0005, Train Acc: 1.0000
+Subject: sub19, Epoch 49/50 - Training started
+  Batch 0/2 - Train Loss: 0.0005, Train Acc: 1.0000
+Subject: sub19, Epoch 50/50 - Training started
+  Batch 0/2 - Train Loss: 0.0004, Train Acc: 1.0000
+Best Predicted    : [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2]
+Ground Truth : [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2]
+Evaluation until this subject:
+best UF1: 0.9566 | best UAR: 0.9404
+Subject: sub20
+train
+Subject: sub20, Epoch 1/50 - Training started
+  Batch 0/2 - Train Loss: 1.1278, Train Acc: 0.0000
+Subject: sub20, Epoch 2/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 3/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 4/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 5/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 6/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 7/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 8/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 9/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 10/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 11/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 12/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 13/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 14/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 15/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 16/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 17/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 18/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 19/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 20/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 21/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 22/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 23/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 24/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 25/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 26/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 27/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 28/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 29/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 30/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 31/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 32/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 33/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 34/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 35/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 36/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 37/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 38/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 39/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 40/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 41/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 42/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 43/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 44/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 45/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 46/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 47/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 48/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 49/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub20, Epoch 50/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Best Predicted    : [0, 0]
+Ground Truth : [0, 0]
+Evaluation until this subject:
+best UF1: 0.9567 | best UAR: 0.9404
+Subject: sub21
+train
+Subject: sub21, Epoch 1/50 - Training started
+  Batch 0/2 - Train Loss: 1.3827, Train Acc: 0.0000
+Subject: sub21, Epoch 2/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 3/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 4/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 5/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 6/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 7/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 8/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 9/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 10/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 11/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 12/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 13/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 14/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 15/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 16/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 17/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 18/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 19/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 20/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 21/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 22/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 23/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 24/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 25/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 26/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 27/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 28/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 29/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 30/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 31/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 32/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 33/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 34/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 35/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 36/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 37/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 38/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 39/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 40/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 41/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 42/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 43/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 44/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 45/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 46/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 47/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 48/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 49/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub21, Epoch 50/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Best Predicted    : [0]
+Ground Truth : [0]
+Evaluation until this subject:
+best UF1: 0.9567 | best UAR: 0.9404
+Subject: sub22
+train
+Subject: sub22, Epoch 1/50 - Training started
+  Batch 0/2 - Train Loss: 1.2933, Train Acc: 0.0000
+Subject: sub22, Epoch 2/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 3/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 4/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 5/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 6/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 7/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 8/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 9/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 10/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 11/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 12/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 13/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 14/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 15/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 16/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 17/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 18/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 19/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 20/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 21/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 22/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 23/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 24/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 25/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 26/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 27/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 28/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 29/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 30/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 31/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 32/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 33/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 34/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 35/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 36/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 37/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 38/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 39/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 40/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 41/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 42/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 43/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 44/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 45/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 46/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 47/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 48/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 49/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub22, Epoch 50/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Best Predicted    : [0, 0]
+Ground Truth : [0, 0]
+Evaluation until this subject:
+best UF1: 0.9568 | best UAR: 0.9404
+Subject: sub23
+train
+Subject: sub23, Epoch 1/50 - Training started
+  Batch 0/2 - Train Loss: 1.0525, Train Acc: 0.3750
+Subject: sub23, Epoch 2/50 - Training started
+  Batch 0/2 - Train Loss: 1.2115, Train Acc: 0.8750
+Subject: sub23, Epoch 3/50 - Training started
+  Batch 0/2 - Train Loss: 0.7390, Train Acc: 0.8750
+Subject: sub23, Epoch 4/50 - Training started
+  Batch 0/2 - Train Loss: 0.2490, Train Acc: 0.8750
+Subject: sub23, Epoch 5/50 - Training started
+  Batch 0/2 - Train Loss: 1.2175, Train Acc: 0.1250
+Subject: sub23, Epoch 6/50 - Training started
+  Batch 0/2 - Train Loss: 0.2416, Train Acc: 0.8750
+Subject: sub23, Epoch 7/50 - Training started
+  Batch 0/2 - Train Loss: 0.4611, Train Acc: 0.8750
+Subject: sub23, Epoch 8/50 - Training started
+  Batch 0/2 - Train Loss: 0.6056, Train Acc: 0.8750
+Subject: sub23, Epoch 9/50 - Training started
+  Batch 0/2 - Train Loss: 0.6560, Train Acc: 0.8750
+Subject: sub23, Epoch 10/50 - Training started
+  Batch 0/2 - Train Loss: 0.6410, Train Acc: 0.8750
+Subject: sub23, Epoch 11/50 - Training started
+  Batch 0/2 - Train Loss: 0.5810, Train Acc: 0.8750
+Subject: sub23, Epoch 12/50 - Training started
+  Batch 0/2 - Train Loss: 0.4900, Train Acc: 0.8750
+Subject: sub23, Epoch 13/50 - Training started
+  Batch 0/2 - Train Loss: 0.3820, Train Acc: 0.8750
+Subject: sub23, Epoch 14/50 - Training started
+  Batch 0/2 - Train Loss: 0.2770, Train Acc: 0.8750
+Subject: sub23, Epoch 15/50 - Training started
+  Batch 0/2 - Train Loss: 0.2141, Train Acc: 0.8750
+Subject: sub23, Epoch 16/50 - Training started
+  Batch 0/2 - Train Loss: 0.2440, Train Acc: 1.0000
+Subject: sub23, Epoch 17/50 - Training started
+  Batch 0/2 - Train Loss: 0.3301, Train Acc: 1.0000
+Subject: sub23, Epoch 18/50 - Training started
+  Batch 0/2 - Train Loss: 0.3389, Train Acc: 1.0000
+Subject: sub23, Epoch 19/50 - Training started
+  Batch 0/2 - Train Loss: 0.2564, Train Acc: 1.0000
+Subject: sub23, Epoch 20/50 - Training started
+  Batch 0/2 - Train Loss: 0.1819, Train Acc: 1.0000
+Subject: sub23, Epoch 21/50 - Training started
+  Batch 0/2 - Train Loss: 0.1593, Train Acc: 0.8750
+Subject: sub23, Epoch 22/50 - Training started
+  Batch 0/2 - Train Loss: 0.1675, Train Acc: 0.8750
+Subject: sub23, Epoch 23/50 - Training started
+  Batch 0/2 - Train Loss: 0.1783, Train Acc: 0.8750
+Subject: sub23, Epoch 24/50 - Training started
+  Batch 0/2 - Train Loss: 0.1754, Train Acc: 0.8750
+Subject: sub23, Epoch 25/50 - Training started
+  Batch 0/2 - Train Loss: 0.1534, Train Acc: 0.8750
+Subject: sub23, Epoch 26/50 - Training started
+  Batch 0/2 - Train Loss: 0.1161, Train Acc: 0.8750
+Subject: sub23, Epoch 27/50 - Training started
+  Batch 0/2 - Train Loss: 0.0754, Train Acc: 1.0000
+Subject: sub23, Epoch 28/50 - Training started
+  Batch 0/2 - Train Loss: 0.0469, Train Acc: 1.0000
+Subject: sub23, Epoch 29/50 - Training started
+  Batch 0/2 - Train Loss: 0.0346, Train Acc: 1.0000
+Subject: sub23, Epoch 30/50 - Training started
+  Batch 0/2 - Train Loss: 0.0323, Train Acc: 1.0000
+Subject: sub23, Epoch 31/50 - Training started
+  Batch 0/2 - Train Loss: 0.0323, Train Acc: 1.0000
+Subject: sub23, Epoch 32/50 - Training started
+  Batch 0/2 - Train Loss: 0.0299, Train Acc: 1.0000
+Subject: sub23, Epoch 33/50 - Training started
+  Batch 0/2 - Train Loss: 0.0240, Train Acc: 1.0000
+Subject: sub23, Epoch 34/50 - Training started
+  Batch 0/2 - Train Loss: 0.0167, Train Acc: 1.0000
+Subject: sub23, Epoch 35/50 - Training started
+  Batch 0/2 - Train Loss: 0.0102, Train Acc: 1.0000
+Subject: sub23, Epoch 36/50 - Training started
+  Batch 0/2 - Train Loss: 0.0058, Train Acc: 1.0000
+Subject: sub23, Epoch 37/50 - Training started
+  Batch 0/2 - Train Loss: 0.0032, Train Acc: 1.0000
+Subject: sub23, Epoch 38/50 - Training started
+  Batch 0/2 - Train Loss: 0.0017, Train Acc: 1.0000
+Subject: sub23, Epoch 39/50 - Training started
+  Batch 0/2 - Train Loss: 0.0010, Train Acc: 1.0000
+Subject: sub23, Epoch 40/50 - Training started
+  Batch 0/2 - Train Loss: 0.0005, Train Acc: 1.0000
+Subject: sub23, Epoch 41/50 - Training started
+  Batch 0/2 - Train Loss: 0.0003, Train Acc: 1.0000
+Subject: sub23, Epoch 42/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub23, Epoch 43/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub23, Epoch 44/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub23, Epoch 45/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub23, Epoch 46/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub23, Epoch 47/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub23, Epoch 48/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub23, Epoch 49/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub23, Epoch 50/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Best Predicted    : [0, 0, 0, 0, 0, 0, 0, 1]
+Ground Truth : [0, 0, 0, 0, 0, 0, 0, 1]
+Evaluation until this subject:
+best UF1: 0.9574 | best UAR: 0.9407
+Subject: sub24
+train
+Subject: sub24, Epoch 1/50 - Training started
+  Batch 0/2 - Train Loss: 1.0621, Train Acc: 0.6667
+Subject: sub24, Epoch 2/50 - Training started
+  Batch 0/2 - Train Loss: 0.1337, Train Acc: 1.0000
+Subject: sub24, Epoch 3/50 - Training started
+  Batch 0/2 - Train Loss: 0.1742, Train Acc: 1.0000
+Subject: sub24, Epoch 4/50 - Training started
+  Batch 0/2 - Train Loss: 0.9672, Train Acc: 0.3333
+Subject: sub24, Epoch 5/50 - Training started
+  Batch 0/2 - Train Loss: 0.1608, Train Acc: 1.0000
+Subject: sub24, Epoch 6/50 - Training started
+  Batch 0/2 - Train Loss: 1.1479, Train Acc: 0.6667
+Subject: sub24, Epoch 7/50 - Training started
+  Batch 0/2 - Train Loss: 0.1471, Train Acc: 1.0000
+Subject: sub24, Epoch 8/50 - Training started
+  Batch 0/2 - Train Loss: 0.0008, Train Acc: 1.0000
+Subject: sub24, Epoch 9/50 - Training started
+  Batch 0/2 - Train Loss: 0.0019, Train Acc: 1.0000
+Subject: sub24, Epoch 10/50 - Training started
+  Batch 0/2 - Train Loss: 0.0269, Train Acc: 1.0000
+Subject: sub24, Epoch 11/50 - Training started
+  Batch 0/2 - Train Loss: 0.1617, Train Acc: 1.0000
+Subject: sub24, Epoch 12/50 - Training started
+  Batch 0/2 - Train Loss: 0.0255, Train Acc: 1.0000
+Subject: sub24, Epoch 13/50 - Training started
+  Batch 0/2 - Train Loss: 0.0019, Train Acc: 1.0000
+Subject: sub24, Epoch 14/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub24, Epoch 15/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 16/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 17/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 18/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 19/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 20/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 21/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 22/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 23/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 24/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 25/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 26/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 27/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 28/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 29/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 30/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 31/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 32/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 33/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 34/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 35/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 36/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 37/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 38/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 39/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 40/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 41/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 42/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 43/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 44/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 45/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 46/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 47/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 48/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 49/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub24, Epoch 50/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Best Predicted    : [0, 0, 2]
+Ground Truth : [0, 0, 2]
+Evaluation until this subject:
+best UF1: 0.9576 | best UAR: 0.941
+Subject: sub25
+train
+Subject: sub25, Epoch 1/50 - Training started
+  Batch 0/2 - Train Loss: 1.4075, Train Acc: 0.0000
+Subject: sub25, Epoch 2/50 - Training started
+  Batch 0/2 - Train Loss: 0.9789, Train Acc: 0.6000
+Subject: sub25, Epoch 3/50 - Training started
+  Batch 0/2 - Train Loss: 1.3302, Train Acc: 0.4000
+Subject: sub25, Epoch 4/50 - Training started
+  Batch 0/2 - Train Loss: 0.2285, Train Acc: 1.0000
+Subject: sub25, Epoch 5/50 - Training started
+  Batch 0/2 - Train Loss: 0.3398, Train Acc: 0.8000
+Subject: sub25, Epoch 6/50 - Training started
+  Batch 0/2 - Train Loss: 0.5128, Train Acc: 0.8000
+Subject: sub25, Epoch 7/50 - Training started
+  Batch 0/2 - Train Loss: 0.3060, Train Acc: 0.8000
+Subject: sub25, Epoch 8/50 - Training started
+  Batch 0/2 - Train Loss: 0.0919, Train Acc: 1.0000
+Subject: sub25, Epoch 9/50 - Training started
+  Batch 0/2 - Train Loss: 0.1130, Train Acc: 1.0000
+Subject: sub25, Epoch 10/50 - Training started
+  Batch 0/2 - Train Loss: 0.2188, Train Acc: 0.8000
+Subject: sub25, Epoch 11/50 - Training started
+  Batch 0/2 - Train Loss: 0.1834, Train Acc: 0.8000
+Subject: sub25, Epoch 12/50 - Training started
+  Batch 0/2 - Train Loss: 0.0707, Train Acc: 1.0000
+Subject: sub25, Epoch 13/50 - Training started
+  Batch 0/2 - Train Loss: 0.0230, Train Acc: 1.0000
+Subject: sub25, Epoch 14/50 - Training started
+  Batch 0/2 - Train Loss: 0.0225, Train Acc: 1.0000
+Subject: sub25, Epoch 15/50 - Training started
+  Batch 0/2 - Train Loss: 0.0403, Train Acc: 1.0000
+Subject: sub25, Epoch 16/50 - Training started
+  Batch 0/2 - Train Loss: 0.0533, Train Acc: 1.0000
+Subject: sub25, Epoch 17/50 - Training started
+  Batch 0/2 - Train Loss: 0.0396, Train Acc: 1.0000
+Subject: sub25, Epoch 18/50 - Training started
+  Batch 0/2 - Train Loss: 0.0164, Train Acc: 1.0000
+Subject: sub25, Epoch 19/50 - Training started
+  Batch 0/2 - Train Loss: 0.0048, Train Acc: 1.0000
+Subject: sub25, Epoch 20/50 - Training started
+  Batch 0/2 - Train Loss: 0.0013, Train Acc: 1.0000
+Subject: sub25, Epoch 21/50 - Training started
+  Batch 0/2 - Train Loss: 0.0004, Train Acc: 1.0000
+Subject: sub25, Epoch 22/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 23/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 24/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 25/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 26/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 27/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 28/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 29/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 30/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 31/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 32/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 33/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 34/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 35/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 36/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 37/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 38/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 39/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 40/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 41/50 - Training started
+  Batch 0/2 - Train Loss: 0.0002, Train Acc: 1.0000
+Subject: sub25, Epoch 42/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 43/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 44/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 45/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 46/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 47/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 48/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 49/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub25, Epoch 50/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Best Predicted    : [0, 0, 0, 2, 2]
+Ground Truth : [0, 0, 0, 2, 2]
+Evaluation until this subject:
+best UF1: 0.9581 | best UAR: 0.9416
+Subject: sub26
+train
+Subject: sub26, Epoch 1/50 - Training started
+  Batch 0/2 - Train Loss: 1.2769, Train Acc: 0.0000
+Subject: sub26, Epoch 2/50 - Training started
+  Batch 0/2 - Train Loss: 1.6690, Train Acc: 0.8182
+Subject: sub26, Epoch 3/50 - Training started
+  Batch 0/2 - Train Loss: 0.7383, Train Acc: 0.8182
+Subject: sub26, Epoch 4/50 - Training started
+  Batch 0/2 - Train Loss: 0.2836, Train Acc: 0.9091
+Subject: sub26, Epoch 5/50 - Training started
+  Batch 0/2 - Train Loss: 0.3203, Train Acc: 0.9091
+Subject: sub26, Epoch 6/50 - Training started
+  Batch 0/2 - Train Loss: 0.1017, Train Acc: 1.0000
+Subject: sub26, Epoch 7/50 - Training started
+  Batch 0/2 - Train Loss: 0.1995, Train Acc: 0.8182
+Subject: sub26, Epoch 8/50 - Training started
+  Batch 0/2 - Train Loss: 0.2105, Train Acc: 0.8182
+Subject: sub26, Epoch 9/50 - Training started
+  Batch 0/2 - Train Loss: 0.1131, Train Acc: 0.9091
+Subject: sub26, Epoch 10/50 - Training started
+  Batch 0/2 - Train Loss: 0.0423, Train Acc: 1.0000
+Subject: sub26, Epoch 11/50 - Training started
+  Batch 0/2 - Train Loss: 0.0459, Train Acc: 1.0000
+Subject: sub26, Epoch 12/50 - Training started
+  Batch 0/2 - Train Loss: 0.0745, Train Acc: 1.0000
+Subject: sub26, Epoch 13/50 - Training started
+  Batch 0/2 - Train Loss: 0.0715, Train Acc: 1.0000
+Subject: sub26, Epoch 14/50 - Training started
+  Batch 0/2 - Train Loss: 0.0378, Train Acc: 1.0000
+Subject: sub26, Epoch 15/50 - Training started
+  Batch 0/2 - Train Loss: 0.0137, Train Acc: 1.0000
+Subject: sub26, Epoch 16/50 - Training started
+  Batch 0/2 - Train Loss: 0.0055, Train Acc: 1.0000
+Subject: sub26, Epoch 17/50 - Training started
+  Batch 0/2 - Train Loss: 0.0042, Train Acc: 1.0000
+Subject: sub26, Epoch 18/50 - Training started
+  Batch 0/2 - Train Loss: 0.0057, Train Acc: 1.0000
+Subject: sub26, Epoch 19/50 - Training started
+  Batch 0/2 - Train Loss: 0.0081, Train Acc: 1.0000
+Subject: sub26, Epoch 20/50 - Training started
+  Batch 0/2 - Train Loss: 0.0095, Train Acc: 1.0000
+Subject: sub26, Epoch 21/50 - Training started
+  Batch 0/2 - Train Loss: 0.0079, Train Acc: 1.0000
+Subject: sub26, Epoch 22/50 - Training started
+  Batch 0/2 - Train Loss: 0.0046, Train Acc: 1.0000
+Subject: sub26, Epoch 23/50 - Training started
+  Batch 0/2 - Train Loss: 0.0020, Train Acc: 1.0000
+Subject: sub26, Epoch 24/50 - Training started
+  Batch 0/2 - Train Loss: 0.0007, Train Acc: 1.0000
+Subject: sub26, Epoch 25/50 - Training started
+  Batch 0/2 - Train Loss: 0.0003, Train Acc: 1.0000
+Subject: sub26, Epoch 26/50 - Training started
+  Batch 0/2 - Train Loss: 0.0001, Train Acc: 1.0000
+Subject: sub26, Epoch 27/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 28/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 29/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 30/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 31/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 32/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 33/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 34/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 35/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 36/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 28/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 29/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 30/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 31/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 32/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 33/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 34/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 35/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 36/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 28/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 29/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 30/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 31/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 32/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 33/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 34/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 35/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 36/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 32/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 33/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 34/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 35/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 36/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 34/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 35/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 36/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 36/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 37/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 37/50 - Training started
+Subject: sub26, Epoch 37/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 38/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 39/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 40/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 41/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 42/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 43/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 44/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 45/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 46/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 47/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 48/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 49/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Subject: sub26, Epoch 50/50 - Training started
+  Batch 0/2 - Train Loss: 0.0000, Train Acc: 1.0000
+Best Predicted    : [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+Ground Truth : [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+Evaluation until this subject:
+best UF1: 0.9588 | best UAR: 0.9423
+Final Evaluation:
+(442,)
+Total Time Taken: 44761.680196762085
+{'006': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2]}, '007': {'pred': [0, 1, 1, 1, 1, 1, 2, 2], 'truth': [0, 1, 1, 1, 1, 1, 2, 2]}, '009': {'pred': [0, 0, 0, 2], 'truth': [0, 0, 0, 2]}, '010': {'pred': [0, 0, 0, 0], 'truth': [0, 0, 0, 0]}, '011': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1]}, '012': {'pred': [0, 0, 2], 'truth': [0, 0, 2]}, '013': {'pred': [0, 0, 0, 0, 0, 0], 'truth': [0, 0, 0, 0, 0, 0]}, '014': {'pred': [0, 0, 1, 1, 1, 1, 1, 1, 1, 2], 'truth': [0, 0, 1, 1, 1, 1, 1, 1, 1, 2]}, '015': {'pred': [0, 0, 2], 'truth': [0, 0, 2]}, '016': {'pred': [0, 0, 1, 2, 2], 'truth': [0, 0, 1, 2, 2]}, '017': {'pred': [0, 0, 0, 2], 'truth': [0, 0, 0, 2]}, '018': {'pred': [0, 0, 2], 'truth': [0, 0, 2]}, '019': {'pred': [1], 'truth': [1]}, '020': {'pred': [0, 0, 1, 1], 'truth': [0, 0, 1, 1]}, '021': {'pred': [0, 0], 'truth': [0, 0]}, '022': {'pred': [0, 0, 0, 1, 1], 'truth': [0, 0, 0, 1, 1]}, '023': {'pred': [0], 'truth': [0]}, '024': {'pred': [0], 'truth': [0]}, '026': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0]}, '028': {'pred': [0, 2, 2], 'truth': [0, 2, 2]}, '030': {'pred': [0, 0, 0], 'truth': [0, 0, 0]}, '031': {'pred': [0], 'truth': [0]}, '032': {'pred': [0, 0, 0, 0], 'truth': [0, 0, 0, 0]}, '033': {'pred': [0, 0, 0, 0, 1], 'truth': [0, 0, 0, 0, 1]}, '034': {'pred': [0, 0, 0], 'truth': [0, 0, 0]}, '035': {'pred': [0, 0, 0, 0, 0, 0, 0, 2], 'truth': [0, 0, 0, 0, 0, 0, 0, 2]}, '036': {'pred': [0], 'truth': [0]}, '037': {'pred': [0], 'truth': [0]}, 's01': {'pred': [0, 0, 0, 1, 1, 2], 'truth': [0, 0, 0, 1, 1, 2]}, 's02': {'pred': [1, 2, 2, 2, 2, 2], 'truth': [1, 2, 2, 2, 2, 2]}, 's03': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2]}, 's04': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 2, 2], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 2, 2]}, 's05': {'pred': [0, 2], 'truth': [0, 2]}, 's06': {'pred': [0, 0, 2, 2], 'truth': [0, 0, 2, 2]}, 's08': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1]}, 's09': {'pred': [1, 2, 2, 2], 'truth': [1, 2, 2, 2]}, 's11': {'pred': [0, 0, 0, 1, 1, 1, 2], 'truth': [0, 0, 0, 1, 1, 1, 2]}, 's12': {'pred': [1, 1, 1, 1, 1, 1, 1, 1, 2], 'truth': [1, 1, 1, 1, 1, 1, 1, 1, 2]}, 's13': {'pred': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'truth': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}, 's14': {'pred': [0, 0, 0, 1, 1, 2, 2, 2, 2, 2], 'truth': [0, 0, 0, 1, 1, 2, 2, 2, 2, 2]}, 's15': {'pred': [0, 1, 2, 2], 'truth': [0, 1, 2, 2]}, 's18': {'pred': [0, 0, 2, 2, 2, 2, 2], 'truth': [0, 0, 2, 2, 2, 2, 2]}, 's19': {'pred': [1, 2], 'truth': [1, 2]}, 's20': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2]}, 'sub01': {'pred': [0, 0, 1], 'truth': [0, 0, 1]}, 'sub02': {'pred': [0, 0, 0, 0, 0, 1, 2, 2, 2], 'truth': [0, 0, 0, 0, 0, 1, 2, 2, 2]}, 'sub03': {'pred': [0, 0, 0, 0, 2], 'truth': [0, 0, 0, 0, 2]}, 'sub04': {'pred': [0, 0], 'truth': [0, 0]}, 'sub05': {'pred': [1, 2, 2, 2, 2, 2], 'truth': [1, 2, 2, 2, 2, 2]}, 'sub06': {'pred': [0, 1, 2, 2], 'truth': [0, 1, 2, 2]}, 'sub07': {'pred': [0, 0, 0, 0, 0], 'truth': [0, 0, 0, 0, 0]}, 'sub08': {'pred': [0], 'truth': [0]}, 'sub09': {'pred': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1], 'truth': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]}, 'sub11': {'pred': [0, 0, 0, 0], 'truth [0]}, 'sub09': {'pred': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1], 'truth': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]}, 'sub11': {'pred': [0, 0, 0, 0], 'truth [0]}, 'sub09': {'pred': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1], 'truth': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]}, 'sub11': {'pred': [0, 0, 0, 0], 'truth': [0, 0, 0, 0]}, 'sub12': {'pred': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2], 'truth': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2]}, 'sub13': {'pred': [1, 1], 'truth': [1, 1]}, 'sub14': {'pred': [1, 1, 1], 'truth': [1, 1, 1]}, 'sub15': {'pred': [0, 1, 2], 'truth': [0, 1, 2]}, 'sub16': {'pre [0]}, 'sub09': {'pred': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1], 'truth': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]}, 'sub11': {'pred': [0, 0, 0, 0], 'truth': [0, 0, 0, 0]}, 'sub12': {'pred': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2], 'truth': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2]}, 'sub13': {'pred': [1, 1], 'truth': [1, 1]}, 'sub14': {'pred': [1, 1, 1], 'truth': [1, 1, 1]}, 'sub15': {'pred': [0, 1, 2], 'truth': [0, 1, 2]}, 'sub16': {'pre [0]}, 'sub09': {'pred': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1], 'truth': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]}, 'sub11': {'pred': [0, 0, 0, 0], 'truth': [0, 0, 0, 0]}, 'sub12': {'pred': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2], 'truth': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2]}, 'sub13': {'pred': [1, 1], 'truth': [1, 1]}, 'sub14': {'pred': [1, 1, 1], 'truth': [1, 1, 1]}, 'sub15': {'pred': [0, 1, 2], 'truth': [0, 1, 2]}, 'sub16': {'pred': [0, 1, 1], 'truth': [0, 1, 1]}, 'sub17': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1 [0]}, 'sub09': {'pred': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1], 'truth': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]}, 'sub11': {'pred': [0, 0, 0, 0], 'truth': [0, 0, 0, 0]}, 'sub12': {'pred': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2], 'truth': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2]}, 'sub13': {'pred': [1, 1], 'truth': [1, 1]}, 'sub14': {'pred': [1, 1, 1], 'truth': [1, 1, 1]}, 'sub15': {'pred': [0, 1, 2], 'truth': [0, 1, 2]}, 'sub16': {'pred': [0, 1, 1], 'truth': [0, 1, 1]}, 'sub17': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2]}, 'sub19': {'pred': [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2], 'truth': [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2]}, 'sub20': {'pred': [0, 0], 'truth': [0, 0]}, 'sub21': {'pred [0]}, 'sub09': {'pred': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1], 'truth': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]}, 'sub11': {'pred': [0, 0, 0, 0], 'truth': [0, 0, 0, 0]}, 'sub12': {'pred': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2], 'truth': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2]}, 'sub13': {'pred': [1, 1], 'truth': [1, 1]}, 'sub14': {'pred': [1, 1, 1], 'truth': [1, 1, 1]}, 'sub15': {'pred': [0, 1, 2], 'truth': [0, 1, 2]}, 'sub16': {'pred': [0, 1, 1], 'truth': [0, 1, 1]}, 'sub17': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1 [0]}, 'sub09': {'pred': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1], 'truth': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]}, 'sub11': {'pred': [0, 0, 0, 0], 'truth': [0, 0, 0, 0]}, 'sub12': {'pred': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2], 'truth': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2]}, 'sub13': {'pred': [1, 1], 'truth': [1, 1]}, 'sub14': {'pred': [1, 1, 1], 'truth': [1, 1, 1]}, 'sub15': {'pred': [0, 1, 2], 'truth': [0, 1, 2]}, 'sub16': {'pre [0]}, 'sub09': {'pred': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1], 'truth': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]}, 'sub11': {'pred': [0, 0, 0, 0], 'truth': [0, 0, 0, 0]}, 'sub12': {'pred': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2], 'truth': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2]}, 'sub13': {'pred': [1, 1], 'truth': [1, 1]}, 'sub14': {'pred': [1, 1, 1], 'truth': [1, 1, 1]}, 'sub15': {'pred': [0, 1, 2], 'truth': [0, 1, 2]}, 'sub16': {'pred': [0, 1, 1], 'truth': [0, 1, 1]}, 'sub17': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2]}, 'sub19': {'pred': [0 [0]}, 'sub09': {'pred': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1], 'truth': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]}, 'sub11': {'pred': [0, 0, 0, 0], 'truth': [0, 0, 0, 0]}, 'sub12': {'pred': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2], 'truth': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2]}, 'sub13': {'pred': [1, 1], 'truth': [1, 1]}, 'sub14': {'pred': [1, 1, 1], 'truth': [1, 1, 1]}, 'sub15': {'pred': [0, 1, 2], 'truth': [0, 1, 2]}, 'sub16': {'pred': [0, 1, 1], 'truth': [0, 1, 1]}, 'sub17': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1 [0]}, 'sub09': {'pred': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1], 'truth': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]}, 'sub11': {'pred': [0, 0, 0, 0], 'truth': [0, 0, 0, 0]}, 'sub12': {'pred': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2], 'truth': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2]}, 'sub13': {'pred': [1, 1], 'truth': [1, 1]}, 'sub14': {'pred': [1, 1, 1], 'truth': [1, 1, 1]}, 'sub15': {'pred': [0, 1, 2], 'truth': [0, 1, 2]}, 'sub16': {'pred': [0, 1, 1], 'truth': [0, 1, 1]}, 'sub17': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1 [0]}, 'sub09': {'pred': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1], 'truth': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]}, 'sub11': {'pred': [0, 0, 0, 0], 'truth [0]}, 'sub09': {'pred': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1], 'truth': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]}, 'sub11': {'pred': [0, 0, 0, 0], 'truth': [0, 0, 0, 0]}, 'sub12': {'pred': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2], 'truth': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2]}, 'sub13': {'pred': [1, 1], 'truth': [1, 1]}, 'sub14': {'pred': [1, 1, 1], 'truth': [1, 1, 1]}, 'sub15': {'pred': [0, 1, 2], 'truth': [0, 1, 2]}, 'sub16': {'pred': [0, 1, 1], 'truth': [0, 1, 1]}, 'sub17': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2]}, 'sub19': {'pred': [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2], 'truth': [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2]}, 'sub20': {'pred': [0, 0], 'truth': [0, 0]}, 'sub21': {'pred': [0], 'truth': [0]}, 'sub22': {'pred': [0, 0], 'truth': [0, 0]}, 'sub23': {'pred': [0, 0, 0, 0, 0, 0, 0, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 1]}, 'sub24': {'pred': [0, 0, 2], 'truth': [0, 0, 2]}, 'sub25': {'pred': [0, 0, 0, 2, 2], 'truth': [0, 0, 0, 2, 2]}, 'sub26': {'pred [0]}, 'sub09': {'pred': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1], 'truth': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]}, 'sub11': {'pred': [0, 0, 0, 0], 'truth': [0, 0, 0, 0]}, 'sub12': {'pred': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2], 'truth': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2]}, 'sub13': {'pred': [1, 1], 'truth': [1, 1]}, 'sub14': {'pred': [1, 1, 1], 'truth': [1, 1, 1]}, 'sub15': {'pred': [0, 1, 2], 'truth': [0, 1, 2]}, 'sub16': {'pred': [0, 1, 1], 'truth': [0, 1, 1]}, 'sub17': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2]}, 'sub19': {'pred': [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2], 'truth': [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2]}, 'sub20': {'pred': [0, 0], 'truth': [0, 0]}, 'sub21': {'pred': [0], 'truth': [0]}, 'sub22': {'pred': [0, 0], 'truth': [0, 0]}, 'sub23': {'pred': [0, 0, 0, 0, 0, 0, 0, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 1]}, 'sub24': {'pred': [0, 0, 2], 'truth': [0, 0, 2]}, 'sub25': {'pred': [0, 0, 0, 2, 2], 'truth': [0, 0, 0, 2, 2]}, 'sub26': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]}}
+PS D:\思扬\软件学院\三下\微表情识别\Micro-expression-recognition> ^C
+PS D:\思扬\软件学院\三下\微表情识别\Micro-expression-recognition>
+
+
+
+
+
+
+
+ [0]}, 'sub09': {'pred': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1], 'truth': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]}, 'sub11': {'pred': [0, 0, 0, 0], 'truth': [0, 0, 0, 0]}, 'sub12': {'pred': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2], 'truth': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2]}, 'sub13': {'pred': [1, 1], 'truth': [1, 1]}, 'sub14': {'pred': [1, 1, 1], 'truth': [1, 1, 1]}, 'sub15': {'pred': [0, 1, 2], 'truth': [0, 1, 2]}, 'sub16': {'pred': [0, 1, 1], 'truth': [0, 1, 1]}, 'sub17': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2]}, 'sub19': {'pred': [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2], 'truth': [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2]}, 'sub20': {'pred': [0, 0], 'truth': [0, 0]}, 'sub21': {'pred': [0], 'truth': [0]}, 'sub22': {'pred': [0, 0], 'truth': [0, 0]}, 'sub23': {'pred': [0, 0, 0, 0, 0, 0, 0, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 1]}, 'sub24': {'pred': [0, 0, 2], 'truth': [0, 0, 2]}, 'sub25': {'pred': [0, 0, 0, 2, 2], 'truth': [0, 0, 0, 2, 2]}, 'sub26': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]}}
+PS D:\思扬\软件学院\三下\微表情识别\Micro-expression-recognition> ^C
+PS D:\思扬\软件学院\三下\微表情识别\Micro-expression-recognition>
+
+
+
+
+ [0]}, 'sub09': {'pred': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1], 'truth': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]}, 'sub11': {'pred': [0, 0, 0, 0], 'truth': [0, 0, 0, 0]}, 'sub12': {'pred': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2], 'truth': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2]}, 'sub13': {'pred': [1, 1], 'truth': [1, 1]}, 'sub14': {'pred': [1, 1, 1], 'truth': [1, 1, 1]}, 'sub15': {'pred': [0, 1, 2], 'truth': [0, 1, 2]}, 'sub16': {'pred': [0, 1, 1], 'truth': [0, 1, 1]}, 'sub17': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2]}, 'sub19': {'pred': [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2], 'truth': [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2]}, 'sub20': {'pred': [0, 0], 'truth': [0, 0]}, 'sub21': {'pred': [0], 'truth': [0]}, 'sub22': {'pred': [0, 0], 'truth': [0, 0]}, 'sub23': {'pred': [0, 0, 0, 0, 0, 0, 0, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 1]}, 'sub24': {'pred': [0, 0, 2], 'truth': [0, 0, 2]}, 'sub25': {'pred': [0, 0, 0, 2, 2], 'truth': [0, 0, 0, 2, 2]}, 'sub26': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]}}
+PS D:\思扬\软件学院\三下\微表情识别\Micro-expression-recognition> ^C
+PS D:\思扬\软件学院\三下\微表情识别\Micro-expression-recognition>
+
+
+ [0]}, 'sub09': {'pred': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1], 'truth': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]}, 'sub11': {'pred': [0, 0, 0, 0], 'truth': [0, 0, 0, 0]}, 'sub12': {'pred': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2], 'truth': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2]}, 'sub13': {'pred': [1, 1], 'truth': [1, 1]}, 'sub14': {'pred': [1, 1, 1], 'truth': [1, 1, 1]}, 'sub15': {'pred': [0, 1, 2], 'truth': [0, 1, 2]}, 'sub16': {'pred': [0, 1, 1], 'truth': [0, 1, 1]}, 'sub17': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2]}, 'sub19': {'pred': [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2], 'truth': [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2]}, 'sub20': {'pred': [0, 0], 'truth': [0, 0]}, 'sub21': {'pred': [0], 'truth': [0]}, 'sub22': {'pred': [0, 0], 'truth': [0, 0]}, 'sub23': {'pred': [0, 0, 0, 0, 0, 0, 0, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 1]}, 'sub24': {'pred': [0, 0, 2], 'truth': [0, 0, 2]}, 'sub25': {'pred': [0, 0, 0, 2, 2], 'truth': [0, 0, 0, 2, 2]}, 'sub26': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]}}
+PS D:\思扬\软件学院\三下\微表情识别\Micro-expression-recognition> ^C
+PS D:\思扬\软件学院\三下\微表情识别\Micro-expression-recognition>
+ [0]}, 'sub09': {'pred': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1], 'truth': [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]}, 'sub11': {'pred': [0, 0, 0, 0], 'truth': [0, 0, 0, 0]}, 'sub12': {'pred': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2], 'truth': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2]}, 'sub13': {'pred': [1, 1], 'truth': [1, 1]}, 'sub14': {'pred': [1, 1, 1], 'truth': [1, 1, 1]}, 'sub15': {'pred': [0, 1, 2], 'truth': [0, 1, 2]}, 'sub16': {'pred': [0, 1, 1], 'truth': [0, 1, 1]}, 'sub17': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2]}, 'sub19': {'pred': [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2], 'truth': [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2]}, 'sub20': {'pred': [0, 0], 'truth': [0, 0]}, 'sub21': {'pred': [0], 'truth': [0]}, 'sub22': {'pred': [0, 0], 'truth': [0, 0]}, 'sub23': {'pred': [0, 0, 0, 0, 0, 0, 0, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 1]}, 'sub24': {'pred': [0, 0, 2], 'truth': [0, 0, 2]}, 'sub25': {'pred': [0, 0, 0, 2, 2], 'truth': [0, 0, 0, 2, 2]}, 'sub26': {'predd': [0, 1, 1], 'truth': [0, 1, 1]}, 'sub17': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2]}, 'sub19': {'pred': [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2], 'truth': [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2]}, 'sub20': {'pred': [0, 0], 'truth': [0, 0]}, 'sub21': {'pred': [0], 'truth': [0]}, 'sub22': {'pred': [0, 0], 'truth': [0, 0]}, 'sub23': {'pred': [0, 0, 0, 0, 0, 0, 0, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 1]}, 'sub24': {'pred': [0, 0, 2], 'truth': [0, 0, 2]}, 'sub25': {'pred': [0, 0, 0, 2, 2], 'truth': [0, 0, 0, 2, 2]}, 'sub26': {'pred, 1, 1, 2], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2]}, 'sub19': {'pred': [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2], 'truth': [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2]}, 'sub20': {'pred': [0, 0], 'truth': [0, 0]}, 'sub21': {'pred': [0], 'truth': [0]}, 'sub22': {'pred': [0, 0], 'truth': [0, 0]}, 'sub23': {'pred': [0, 0, 0, 0, 0, 0, 0, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 1]}, 'sub24': {'pred': [0, 0, 2], 'truth': [0, 0, 2]}, 'sub25': {'pred': [0, 0, 0, 2, 2], 'truth': [0, 0, 0, 2, 2]}, 'sub26': {'pred': [0], 'truth': [0]}, 'sub22': {'pred': [0, 0], 'truth': [0, 0]}, 'sub23': {'pred': [0, 0, 0, 0, 0, 0, 0, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 1]}, 'sub24': {'pred': [0, 0, 2], 'truth': [0, 0, 2]}, 'sub25': {'pred': [0, 0, 0, 2, 2], 'truth': [0, 0, 0, 2, 2]}, 'sub26': {'pred, 0, 1]}, 'sub24': {'pred': [0, 0, 2], 'truth': [0, 0, 2]}, 'sub25': {'pred': [0, 0, 0, 2, 2], 'truth': [0, 0, 0, 2, 2]}, 'sub26': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]}}
+': [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]}}

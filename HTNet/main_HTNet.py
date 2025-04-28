@@ -240,7 +240,8 @@ class Fusionmodel(nn.Module):
 def main(config):
     learning_rate = 0.00005
     batch_size = 256
-    epochs = 800
+    epochs = 800 # 原版
+    epochs = 50
     all_accuracy_dict = {}
     is_cuda = torch.cuda.is_available()# 原版
     print('is_cuda:', is_cuda)
@@ -358,7 +359,9 @@ def main(config):
                 num_train_correct = 0 # 训练正确的样本数
                 num_train_examples = 0 # 训练样本总数
 
-                for batch in train_dl:
+                print(f"Subject: {n_subName}, Epoch {epoch}/{epochs} - Training started")
+                # for batch in train_dl: # 原版
+                for batch_idx, batch in enumerate(test_dl):
                     optimizer.zero_grad() # 清空梯度
                     x = batch[0].to(device) # 将输入数据移动到指定的设备（GPU 或 CPU）上进行计算
                     y = batch[1].to(device) 
@@ -373,6 +376,12 @@ def main(config):
                     # sum是当前批次中预测的正确数量，item()将其转换为Python整数
                     num_train_examples += x.shape[0]    #  计算当前批次的样本数量
 
+                    # 训练提示
+                    if batch_idx % 10 == 0:  # 每 10 个批次输出一次信息
+                        batch_train_loss = loss.data.item()
+                        batch_train_acc = (torch.max(yhat, 1)[1] == y).sum().item() / x.shape[0]
+                        print(f"  Batch {batch_idx}/{len(train_dl)} - Train Loss: {batch_train_loss:.4f}, Train Acc: {batch_train_acc:.4f}")
+            
                 train_acc = num_train_correct / num_train_examples # 训练准确率
                 train_loss = train_loss / len(train_dl.dataset) # 训练损失
 
